@@ -1,0 +1,10 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My New Hugo Site</title>
+    <link>http://fireice1988.github.io/categories/</link>
+    <description>Recent posts from in Categories on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://fireice1988.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
